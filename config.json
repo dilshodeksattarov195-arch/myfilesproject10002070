@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productupdate",
+        "uuid": 5384070,
+        "checksum": "6seft"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
